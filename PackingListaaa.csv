@@ -1,0 +1,4 @@
+id,lev,box_number,article_code,product,qty,serial_number,fineness,gross_weight,net_weight,seal_no
+1,1,VC098257,103541,"Valcambi bar 1 oz Au 999,9",400,AC 369701 - 370100,"Au 999,90","20.772,80","12.441,20",00933461
+2,1,VC098258,103541,"Valcambi bar 1 oz Au 999,9",400,AC 370101 - 370500,"Au 999,90","20.773,10","12.441,20",00933462
+3,1,VC098259,103541,"Valcambi bar 1 oz Au 999,9",400,AC 370501 - 370900,"Au 999,90","20.757.80","12.441,20",00933463
