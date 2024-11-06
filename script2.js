@@ -8,8 +8,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const parametriMappa = {
         serial_number: "serial_number",
-        fineness: "fineness",
-        net_weight: "net_weight"
     };
 
     for (const [param, id] of Object.entries(parametriMappa)) {
