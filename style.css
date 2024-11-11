@@ -80,6 +80,10 @@
   text-align: right;
 }
 
+h2 {
+    white-space: nowrap;
+}
+
 .text-line {
   margin-bottom: 5px;
 }
